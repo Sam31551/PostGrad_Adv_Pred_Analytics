@@ -6,6 +6,7 @@ Data Description
 A dataset investigating the impact of education level and level of anxious attachment on unwanted pursuit behaviors in the context of couple separation.
 
 Variables:
+
 **UPB**
 number of unwanted pursuit behavior perpetrations.
 
