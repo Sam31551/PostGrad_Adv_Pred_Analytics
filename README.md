@@ -5,7 +5,7 @@ This project demonstrates the use of various statistical models and techniques t
 Data Description
 A dataset investigating the impact of education level and level of anxious attachment on unwanted pursuit behaviors in the context of couple separation.
 
-Variables:
+**Variables:**
 
 **1. UPB:**
 
