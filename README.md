@@ -7,13 +7,16 @@ A dataset investigating the impact of education level and level of anxious attac
 
 Variables:
 
-**1. UPB**
+**1. UPB:**
+
 number of unwanted pursuit behavior perpetrations.
 
-**2. EDUCATION**
+**2. EDUCATION:**
+
 1 if at least bachelor's degree; 0 otherwise.
 
-**3. ANXIETY**
+**3. ANXIETY:**
+
 continuous measure of anxious attachment.
 
 Each section is meticulously designed to teach the application of these methods, with the code providing practical examples of their implementation in R.
