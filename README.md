@@ -51,6 +51,7 @@ _Section D:_ Predictive Performance Comparison
   -> Results: Both models have similar performance, but the Poisson model shows a slightly lower average MSPE across iterations, making it the preferred model.
 
   **Question 2**
+  
   -> Objective: To analyze the effect of school on math scores using both a normal linear regression and a mixed-effects model.
 
   -> Results: When using a normal linear regression model, school is not a significant covariate when it comes to predicting math scores.
@@ -59,6 +60,7 @@ _Section D:_ Predictive Performance Comparison
 
 
   **Question 3**
+  
   -> Objective: To model a non-linear relationship using kernel smoothing and smoothing splines. 
  
   Data is generated for analysis. Kernel Smoothing splines are fit using different bandwith values (One found using CV, one large and one small).
@@ -66,6 +68,7 @@ _Section D:_ Predictive Performance Comparison
 
 
   **Question 4**
+  
   -> Objective: Regression splines with differing degrees of freedom are fit to the data. 
 
   The optimum splines are found to be the smoothing spline and the Cross-Validated bandwith.
