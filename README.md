@@ -30,15 +30,15 @@ _Section A:_ A Poisson Generalized Linear Model is fit to analyze the relationsh
               Coefficient Estimates show that those with a bachelor’s degree are less likely to have high UPB.
               Those with Anxiety are more likely to have high UPB.
 
-Section B: Overdispersion test. The data is checked for overdispersion test as this violates the Poisson model's assumptions.
+_Section B:_ Overdispersion test. The data is checked for overdispersion test as this violates the Poisson model's assumptions.
 
   -> Results: Data was found to be overdispersed. Due to overdispersion, a Zero-Inflated Poisson (ZIP) model or a Negative Binomial model would be more appropriate.
 
-Section C: The negative binomial regression model is fit in a bid to tackle data overdispersion.
+_Section C:_ The negative binomial regression model is fit in a bid to tackle data overdispersion.
 
   -> Results: ANXIETY remains significant, but EDUCATION becomes non-significant.
 
-Section D: To compare the predictive performance of Poisson and Negative Binomial models using Cross Validation and Mean Squared Error (MSPE).
+_Section D:_ To compare the predictive performance of Poisson and Negative Binomial models using Cross Validation and Mean Squared Error (MSPE).
 
   -> Results: Both models have similar performance, but the Poisson model shows a slightly lower average MSPE across iterations, making it the preferred model.
 
