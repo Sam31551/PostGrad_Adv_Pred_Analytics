@@ -40,6 +40,7 @@ Section D: To compare the predictive performance of Poisson and Negative Binomia
 
   **Question 3**
   To model a non-linear relationship using kernel smoothing and smoothing splines. 
+ 
   Data is generated for analysis. Kernel Smoothing splines are fit using different bandwith values (One found using CV, one large and one small).
   The 3 bandwiths are graphed with the one found using cross validation shown to be the optimum fit to the data.
 
