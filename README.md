@@ -1,6 +1,6 @@
 # PostGrad_Adv_Pred_Analytics
 
-This project demonstrates the use of various statistical models and techniques to analyze complex datasets, addressing issues like overdispersion, model comparison, and the handling of hierarchical data structures. 
+This project addresses issues like overdispersion, model comparison, and the handling of hierarchical data structures. 
 
 **Data Description:**
 A dataset investigating the impact of education level and level of anxious attachment on unwanted pursuit behaviors in the context of couple separation.
