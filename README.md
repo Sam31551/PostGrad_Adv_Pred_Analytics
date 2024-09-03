@@ -16,6 +16,8 @@ number of unwanted pursuit behavior perpetrations.
 continuous measure of anxious attachment.
 
 Each section is meticulously designed to teach the application of these methods, with the code providing practical examples of their implementation in R.
+
+
 **Question 1**
 Section A: A Poisson Generalized Linear Model is fit to analyze the relationship between UPB (response variable) and predictors EDUCATION and ANXIETY.
   -> Results: Both variables were found to be significant. Education to a sig. level of 0.01 and Anxiety to a sig. level of 0.001. 
