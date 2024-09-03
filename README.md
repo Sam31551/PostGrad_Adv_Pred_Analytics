@@ -38,13 +38,13 @@ _Section B:_ Overdispersion test.
 
   -> Results: Data was found to be overdispersed. Due to overdispersion, a Zero-Inflated Poisson (ZIP) model or a Negative Binomial model would be more appropriate.
 
-_Section C:_ 
+_Section C:_  Tackle Overdispersion.
 
   -> Objective: The negative binomial regression model is fit in a bid to tackle data overdispersion.
 
   -> Results: ANXIETY remains significant, but EDUCATION becomes non-significant.
 
-_Section D:_ 
+_Section D:_ Predictive Performance Comparison
   
   -> Objective: To compare the predictive performance of Poisson and Negative Binomial models using Cross Validation and Mean Squared Error (MSPE).
 
@@ -57,11 +57,13 @@ _Section D:_
               A fixed effects model to isolate the impact of school explain the variance in math scores. School becomes a significant variable. 
               0.18 is total variance in outcome that can be attributed to differences between schools (found using Intraclass coefficients). 
 
+
   **Question 3**
   -> Objective: To model a non-linear relationship using kernel smoothing and smoothing splines. 
  
   Data is generated for analysis. Kernel Smoothing splines are fit using different bandwith values (One found using CV, one large and one small).
   The 3 bandwiths are graphed with the one found using cross validation shown to be the optimum fit to the data.
+
 
   **Question 4**
   -> Objective: Regression splines with differing degrees of freedom are fit to the data. 
